@@ -12,7 +12,7 @@ Dies ist ein einfaches Beispiel für einen automatisierten Test. Der Test prüft
 
 1. **Repository klonen**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/arnauldmba/rewe-career-test
 
 2. **Abhängigkeiten installieren**: Stelle sicher, dass Node.js auf deinem Computer installiert ist. Danach kannst du alle Abhängigkeiten mit folgendem Befehl installieren:
    npm install
